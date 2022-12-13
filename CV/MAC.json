@@ -91,6 +91,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Mantelnor Sistemas"
+        },
+        "roles": [
+          {
+            "name": ".NET/Sql Seveloper",
+            "startDate": "2007-10-01",
+            "finishDate": "2008-03-01",
+            "challenges": [
+              {
+                "description": "I worked on the development of an internal ERP and the maintenance of legacy systems. This project was developed in C# and ASP.Net with SQL Server 2005. I also was in charge of legacy PHP applications which required minor changes. This project gave me the chance to improve my skills on C# and ASP.NET and also on Transact SQL."
+              }
+            ]
+          }
+        ]
       }
     ]
   },

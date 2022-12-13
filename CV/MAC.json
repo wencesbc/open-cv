@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,14 +10,10 @@
       "surnames": "Bernardez Carbon",
       "title": "Full-stack developper",
       "description": "Soy un apasionado de la programacion, tengo mas de 13 años de experiencia, casi todo en tecnologías Microsoft (c# y SQL Server + Azure), aunque me encanta aprender cualquier lenguaje que considere interesante.\nUna de las cosas que considero más importantes dentro de una organización es tener buenos procesos de desarrollo, que cubran desde como se gestiona el codigo (convenciones, ramas), a como se valida y despliega.\nMe encanta discutir las alternativas a la hora de resolver problemas que se plantean durante el desarrollo, siempre de forma constructiva y buscando el consenso.",
-      "avatar": {
-        "alt": ""
-      },
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Vigo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Vigo"
       }
     },
     "relevantLinks": [
@@ -71,7 +67,7 @@
             "startDate": "2014-06-01",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "At this position I helped the company to settle a new office and team in Barcelona, working together with the rest of the development team in Amsterdam, all this work was done using C#, MVC, jQuery pushing to use latest technologies. Since late 2016 I have been working full remote from Vigo, my hometown, where we settle a new team, visiting Barcelona and Amsterdam a few times per year. I work on the development of new application as of maintaining already existing ones and giving support to customers. More recently I focus on defining the strategies to migrate to Azure and the architectural changes needed, this lead to many challenges which were very interesting and help me to improve my Azure skills. We focused on a monolitic to micro services migration for many components and best use of the solutions available on cloud.\nThe lead developer role included among my duties check the CV of the applicants and be part of the hiring process, afterwards, giving training and advice when needed, also I introduced many changes in the development process such as improving the devops platform, creating a code analysis system and proposing changes to the source control platform and development workflow. I also assist the sales department on visits to customers explaining our solutions and looking the best way to help them using our expertise.\n"
               }
             ]
           }
@@ -133,20 +129,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "French",
-        "level": "Professional working proficiency"
+        "name": "French"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -227,7 +219,6 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }

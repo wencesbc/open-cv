@@ -84,7 +84,7 @@
             "finishDate": "2014-05-31",
             "challenges": [
               {
-                "description": ".Net Development\nWeb Services\nDevelopment process\nLINQ\nDatabase (SQL Server and Oracle)"
+                "description": "The goal of this project was to develop a web application on C#, SQL Server and Oracle. Besides of that, I took care of the Continuous Integration process, migrating from CruiseControl.Net to Teamcity, building the build & deploy scripts needed to manage different branches and servers. This work lead to significant savings in the deploying times, what help us to reduce gaps between servers. As result I participate supporting the implantation of Teamcity for the whole PSA-Peugeot Citroen group. One of the most interesting skills I acquired was LINQ, which allow me to create better code in terms of performance and faster development and allow me to introduce this technology to coworkers. Also, part of my tasks was to refactor the application according to newer .NET Frameworks and tools such as REST and Web Services, AJAX, jQuery and NUnit. Finally, I was in charge of mentoring new roles about development process and introducing new technologies to team members, besides of being the reference for the most difficult tasks."
               }
             ]
           }

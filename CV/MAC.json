@@ -223,6 +223,9 @@
           "name": "SQLServer",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     },
     "status": "searchingActively"

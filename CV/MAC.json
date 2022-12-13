@@ -27,22 +27,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Mar 2008 - Apr 2010 "
-        },
-        "roles": [
-          {
-            "name": "Analyst/Developer",
-            "startDate": "2022-12-13",
-            "challenges": [
-              {
-                "description": "Analyst/Developer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "The Orange Factory"
         },
         "roles": [

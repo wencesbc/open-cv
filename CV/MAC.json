@@ -1,0 +1,212 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Wenceslao",
+      "surnames": "Bernardez Carbon",
+      "title": "Full-stack developper",
+      "description": "Soy un apasionado de la programacion, tengo mas de 13 años de experiencia, casi todo en tecnologías Microsoft (c# y SQL Server + Azure), aunque me encanta aprender cualquier lenguaje que considere interesante.\nUna de las cosas que considero más importantes dentro de una organización es tener buenos procesos de desarrollo, que cubran desde como se gestiona el codigo (convenciones, ramas), a como se valida y despliega.\nMe encanta discutir las alternativas a la hora de resolver problemas que se plantean durante el desarrollo, siempre de forma constructiva y buscando el consenso.",
+      "avatar": {
+        "alt": ""
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Vigo",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/wencesbc/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mar 2008 - Apr 2010 "
+        },
+        "roles": [
+          {
+            "name": "Analyst/Developer",
+            "startDate": "2022-12-13",
+            "challenges": [
+              {
+                "description": "Analyst/Developer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Apr 2010 - Nov 2010 "
+        },
+        "roles": [
+          {
+            "name": "Business Analyst",
+            "startDate": "2022-12-13",
+            "challenges": [
+              {
+                "description": "Business Analyst"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Orange Factory"
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coremain"
+        },
+        "roles": [
+          {
+            "name": "ASP.NET Analyst/Developer",
+            "startDate": "2012-01-01",
+            "finishDate": "2014-05-31",
+            "challenges": [
+              {
+                "description": ".Net Development\nWeb Services\nDevelopment process\nLINQ\nDatabase (SQL Server and Oracle)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "2Mares"
+        },
+        "roles": [
+          {
+            "name": "Application Support",
+            "startDate": "2010-11-01",
+            "finishDate": "2012-01-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "2 yrs 9 mos"
+        },
+        "roles": [
+          {
+            "name": "Softtek",
+            "startDate": "2010-04-01",
+            "finishDate": "2010-11-30",
+            "challenges": [
+              {
+                "description": "Business Analyst"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sendgrid",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/wencesbc/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}

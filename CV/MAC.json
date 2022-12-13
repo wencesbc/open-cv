@@ -108,6 +108,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "SIPRORED"
+        },
+        "roles": [
+          {
+            "name": ".NET Developer",
+            "startDate": "2005-04-01",
+            "finishDate": "2005-09-01",
+            "challenges": [
+              {
+                "description": "As intern I participated in the development of an ERP for a specific business sector. The technology was ASP and VB with SQL Server 2000. During this period, I gained strong SQL skills, building own database replication systems. I was in charge of assembling the systems and giving support to the users."
+              }
+            ]
+          }
+        ]
       }
     ]
   },

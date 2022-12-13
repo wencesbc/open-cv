@@ -109,16 +109,16 @@
       },
       {
         "organization": {
-          "name": "2 yrs 9 mos"
+          "name": "Softtek"
         },
         "roles": [
           {
-            "name": "Softtek",
+            "name": "Business Analyst",
             "startDate": "2010-04-01",
             "finishDate": "2010-11-30",
             "challenges": [
               {
-                "description": "Business Analyst"
+                "description": "At this company, I worked on several projects located in Amsterdam, Paris and the USA. I worked in these projects both in situ and remotely. These assignments helped me to improve my communication skills. The first project, for GE Artesia Bank, consisted on the migration from DTS to SSIS, introducing SSRS, the creation of the necessary datamarts, ETL processes and also the development of an internal management system and related tools. This assignment began with 3 months in Amsterdam and continuing 9 months from Spain, involving the following technologies: C#, ASP.NET, Winforms, SQL Server and as mentioned Reporting and Integration Services from Microsoft.\nThe second project was a legacy application support for industrial business. The project required 1 month in Allentown, Pennsylvania and afterwards 3 months of support from Spain during USA business hours. The goal of this project was to take care of and old 4th generation language (Magic) and support the application during its shutdown. The last project consisted of producing and analysing business intelligence reports for the credit risk department of GE, spotting loading errors or significant differences at business level. During this project I had to travel to Paris several times. I was the team leader in the final phase of the project in Paris. Between assignments I worked on internal applications development and IT costs analysis what lead to important savings.\n"
               }
             ]
           }
